@@ -3,8 +3,8 @@ ETLS PROJETO LEMANN
 
 Colaboradores
 -------------
->*mmsf.
->*mabs.
+>mmsf
+>mabs
 
 
 Padrão Commit
