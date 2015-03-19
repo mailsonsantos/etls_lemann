@@ -265,7 +265,7 @@
     <name>Data Grid 3</name>
     <type>DataGrid</type>
     <description/>
-    <distribute>Y</distribute>
+    <distribute>N</distribute>
     <custom_distribution/>
     <copies>1</copies>
          <partitioning>
