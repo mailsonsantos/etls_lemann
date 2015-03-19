@@ -226,7 +226,7 @@
       <type>TRANS</type>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>&#x2f;home&#x2f;mailson&#x2f;Estudo&#x2f;Lemann&#x2f;etls_lemann&#x2f;get_urls.ktr</filename>
+      <filename>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;get_urls.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -259,7 +259,7 @@
       <type>TRANS</type>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>&#x2f;home&#x2f;mailson&#x2f;Estudo&#x2f;Lemann&#x2f;etls_lemann&#x2f;getDataFromUrl.ktr</filename>
+      <filename>&#x24;&#x7b;Internal.Job.Filename.Directory&#x7d;&#x2f;getDataFromUrl.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>Y</params_from_previous>
